@@ -1,0 +1,1 @@
+2021-05-21T11:43:10.633971+00:00 heroku[router]: at=info method=GET path="/teste" host=api.quemcontrato.com request_id=ea650db3-f3df-43be-87b4-8ec017519961 fwd="191.245.69.246" dyno=web.1 connect=0ms service=163ms status=200 bytes=2492 protocol=https
